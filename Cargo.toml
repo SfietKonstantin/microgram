@@ -1,0 +1,14 @@
+[package]
+name = "microgram"
+version = "0.1.0"
+authors = ["Lucien XU <sfietkonstantin@free.fr>"]
+build = "build.rs"
+
+description = "Microgram is a Telegram client"
+repository = "https://github.com/SfietKonstantin/microgram"
+
+[dependencies]
+qml = { path = "src/3rdparty/qml-rust" }
+
+[build-dependencies]
+cmake = "0.1"

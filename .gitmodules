@@ -1,0 +1,6 @@
+[submodule "src/3rdparty/tgl"]
+	path = src/3rdparty/tgl
+	url = https://github.com/SfietKonstantin/tgl.git
+[submodule "src/3rdparty/qml-rust"]
+	path = src/3rdparty/qml-rust
+	url = https://github.com/SfietKonstantin/qml-rust.git
